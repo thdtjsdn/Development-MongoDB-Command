@@ -1,0 +1,1 @@
+D:\Development\MongoDB\6.0.20\bin\mongod.exe --config D:\DataBase\MongoDB\6.0.20\Test--no_log_file.cfg
