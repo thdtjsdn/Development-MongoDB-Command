@@ -1,0 +1,1 @@
+/Users/thdtjsdn/Development/MongoDB_Shell/2.3.8/bin/mongosh --host localhost --port 27017 --username admin --password 123qweasd --authenticationDatabase admin

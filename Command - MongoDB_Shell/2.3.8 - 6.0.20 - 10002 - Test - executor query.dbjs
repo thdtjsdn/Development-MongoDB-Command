@@ -1,0 +1,3 @@
+use test
+var docCount = db.test.countDocuments();
+printjson(docCount);

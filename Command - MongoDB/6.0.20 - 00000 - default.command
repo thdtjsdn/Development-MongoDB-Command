@@ -1,0 +1,1 @@
+/Users/thdtjsdn/Development/MongoDB/6.0.20/bin/mongod --dbpath /Users/thdtjsdn/DataBase/MongoDB/6.0.20/Test

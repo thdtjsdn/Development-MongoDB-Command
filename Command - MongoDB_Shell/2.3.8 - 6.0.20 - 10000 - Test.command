@@ -1,0 +1,1 @@
+/Users/thdtjsdn/Development/MongoDB_Shell/2.3.8/bin/mongosh
